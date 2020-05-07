@@ -1,0 +1,109 @@
+Intro: 
+
+What is a data structure?
+
+- It is a particular way of storing and organizing data in a computer so that the data can be used efficiently 
+
+Please note that they are very important an essential ingredients to create powerful algorithms 
+
+
+It is important to select a suitable data structure will strongly impact your code 
+
+---The program should execute with less time, less space
+
+TIME and SPACE COMPLEXITY 
+
+Tip is to find applications of such data structure, work on problems, practice, etc. 
+
+
+I'll try my best to draw a map of the Data Structure (Structure) pun intended...  
+
+
+                                     DS 
+				     ||
+	----------------------------- -----------------------------
+	|                                                          |
+ Primitive Data Structure	                       	     Non-Primitive 
+	|							   |
+     	|						----------- ------------
+	|						|		       |   
+	|					  Linear DS		Non-Linear DS
+        Char                                           |		       |
+	int 			       		    Arrays                   Trees
+	float					    Linked list 	     Graphs
+	double					    Stacks 
+        Etc   					    Queues
+
+
+*What is meant by a linear data structure? 
+
+     It simply means that the data is represented in a linear form. Showing that the relationship between the element is linear, one after the other (A perfect sequence == A perfect harmony) 
+
+*So then what is meant by nonlinear? 
+
+     Simply put, the elements in this table represent a hierarchal relationship. (Parent-Child, Ancestors) 
+
+Moving along... 
+
+DS: 
+   -Also an arrangement in a computer's memory or even disk storage 
+
+Examples of common D.S.: 
+
+		-Arrays, Linked Lists, Queues, Stacks, Binary trees, and hash tables. 
+
+*Note that different kinds of D.S. are best suited for different kinds of applications, some are even highly specialized to specific tasks. 
+Like for example:
+        Binary Trees do great for implementation of databases, while a compiler uses hash tables to look up identifiers	
+
+*A stack can be used to reverse a string 
+
+--A stack and queue can be implemented through a linked list -- marine linked list dynamic. Or any time there is a List used Link, Stack, Queues. 
+
+
+To begin, you should evaluate the two basic types of data structures: 
+
+----Arrays and Linked Lists 
+
+Key to a excellent program aka efficient: 
+
+         -Execution in minimum time and space. Reasons why learning time and space complexity is very important. 
+
+
+Important Operations done on Data Structures: 
+
+1. Insertion 
+2. Deletion 
+3. Displaying
+4. Sorting 
+5. Searching 
+6. Merging 
+
+
+Primitive data types availability vary on the type of programming language in use. 
+
+*Linked List: A collection of notes arranged in linear fashion in sequential order with the help of links
+
+*Stacks: LIFO 
+
+*Queues: FIFO 
+
+-------------------------------Linear D.S. begin notes--------------------------------
+
+       Array: 
+
+          -An array is a collection of data of the same data type stored in consecutive memory location and is referred by a common name. It is a fixed size. 
+
+
+       Linked List: 
+
+	  -A linked list is also a collection of data of the same data type yet the data is not or does not need to be stored in consecutive memory locations. Is dynamic and flexible. 
+
+      Stack: 
+
+	-LIFO, insertion is known as push. Deletion is known as pop. 
+
+
+
+TIMESTAMP: Part 5 
+ 
